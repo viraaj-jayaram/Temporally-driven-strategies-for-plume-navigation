@@ -1,1 +1,3 @@
 # Temporally-driven-strategies-for-plume-navigation
+
+This repository just exists to point to the Emonet Lab repository where the code I wrote for my first paper at the Emonet Lab, [Sensing Complementary Temporal Features of Odor Signals Enhances Navigation of Diverse Turbulent Plumes](https://elifesciences.org/articles/72415) is contained. In this paper, we showed how tracking the proportion of time odor signals can be detected as well as the frequency of encounters with individual odor filaments enables more robust olfactory navigation. The link to the repository is https://github.com/emonetlab/plume-temporal-navigation
